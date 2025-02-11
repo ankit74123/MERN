@@ -1,0 +1,37 @@
+Day 2 -- Internet Protocols , HTTP/HTTPS & Dev Setup
+====================================================
+01:17:44
+ -*- 30.01.2025(Thursday) -*-
+
+  Internet Protocols 
+  ------------------
+  Protocol -- Rules 
+  ILTS
+
+  Rules -- 
+  TCP needs acknowledge slow
+  Livestream doesn't follow TCP
+
+  Browser -- Server
+             HTTP(1.1,2,3)
+
+  IPL uses UDP for Livestreaming
+  UDP used in  VoIP calls , DNS lookups , gaming packets
+
+  Understanding HTTP and HTTPS
+  
+  HTTP - 1.1 , 1.2 , 2
+  Data is not secured in HTTP
+  https://sheryians.com/classroom/gotoclassroom/6775253edb7d074fe7a88b85
+  key SSL Certificate -- Public key and Private Key
+ 
+  1.2 -- Multiplexing
+  1.3 -- QUIC Model  
+  TCP + UDP --> Reliable 
+
+  VPN data encrypted , masking
+  Reverse proxy , Load Balancing
+
+  VS Code Setup
+==============
+              #Completed
