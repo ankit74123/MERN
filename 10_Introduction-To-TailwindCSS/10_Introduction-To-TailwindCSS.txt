@@ -1,10 +1,11 @@
 10_Introduction-To-TailwindCSS
 ==============================
-01:10:04 HR
+01:10:04 
 10.02.2025(Monday)
 
   Introduction to TailwindCSS
   
   Quote:- It's not about having time. It's about making time.
  
-       
+==============
+              #Completed
