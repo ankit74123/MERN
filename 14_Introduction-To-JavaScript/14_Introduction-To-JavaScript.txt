@@ -1,0 +1,17 @@
+14_Introduction-To-JavaScript
+=============================
+17-02-2025(Monday)
+01:32:03
+
+Quote: Give me a Liver long enough and a place to stand and I will move the earth
+
+ On Day 14, we take our first step into JavaScript, the powerhouse behind interactive web experiences! ⚡ Learn how JavaScript brings static web pages to life with dynamic content, event handling, and logic-based interactions. We'll        cover the basics of variables, data types, functions, and control structures, setting a strong foundation for building powerful web applications. By the end of this session, you'll be writing your first JavaScript code and understanding         how it fits into modern web development!   
+
+Sarthak Sharma
+
+1.Variables
+
+Brendan Eich created JavaScript in 1995. He is an American computer programmer and technology executive. 
+
+==============
+              #Completed
